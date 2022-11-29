@@ -3,8 +3,8 @@
 > very long pause….
 > “Python”
 
-### 👨🏻‍💻 &nbsp;Hi There
-Oh you are here! 👋
+### 👨🏻‍💻 &nbsp;Oh you're here!
+Hi there! 👋
 
 What to say... well... AWS is my Crush, Python is my love, making DIY gadgets and robots are my hobby, love to have tech talk & share knowledge. I usually talk in two programming languages, but understand many more, want to try?
 
@@ -12,4 +12,4 @@ What to say... well... AWS is my Crush, Python is my love, making DIY gadgets an
 
 Here you'll find some AWS realted projects written in terraform, some cool fun robots which I thought would be serious, more significantly, here's Ashraf Minhaj!
 
-#### Keep a track of what I do [![](https://img.shields.io/github/followers/ashraf-minhaj?label=follow&style=social)](https://github.com/ashraf-minhaj)&nbsp; 
+[![](https://img.shields.io/github/followers/ashraf-minhaj?label=follow&style=social)](https://github.com/ashraf-minhaj)&nbsp; #### to eep a track of what I do. 
