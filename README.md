@@ -10,5 +10,5 @@ What to say... well... AWS is my Crush, Python is my love, making DIY gadgets an
 
 <a href="https://www.linkedin.com/in/ashraf-minhaj/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; <a href="mailto: ashraf_minhaj@yahoo.com"><img alt="Yahoo" src="https://img.shields.io/badge/-Email-white" /></a> &nbsp;
 
-Here you'll find some AWS realted projects written in terraform, some cool fun robots which I thought would be serous, more significantly, here's Ashraf Minhaj!
+Here you'll find some AWS realted projects written in terraform, some cool fun robots which I thought would be serious, more significantly, here's Ashraf Minhaj!
 <!--Want to know more about me? [Check out my portfolio.]()-->
