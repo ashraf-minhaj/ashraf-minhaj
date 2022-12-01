@@ -13,6 +13,6 @@ What to say... well... AWS is my Crush, Python is my love, making DIY gadgets an
 Here you'll find some AWS realted projects written in terraform, some cool fun robots which I thought would be serious, more significantly, here's Ashraf Minhaj!
 
 [![](https://img.shields.io/github/followers/ashraf-minhaj?label=follow&style=social)](https://github.com/ashraf-minhaj)&nbsp; **To keep a track of what I do.** 
-
+<!-- 
 ![](https://img.shields.io/badge/Terraform%20Version-1.3.3-purple?style=plastic&logo=terraform)&nbsp; 
-![](https://img.shields.io/badge/Python%20Version-1.3.3-yellow?style=plastic&logo=python)&nbsp;
+![](https://img.shields.io/badge/Python%20Version-1.3.3-yellow?style=plastic&logo=python)&nbsp; -->
