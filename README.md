@@ -3,6 +3,8 @@
 > very long pause….
 > “Python”
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=“Knock,+knock.”;“Who’s+there?”;very+long+pause….;....;"Python..+")](https://git.io/typing-svg)
+
 ### 👨🏻‍💻 &nbsp;Oh you're here!
 Hi there! 👋
 
