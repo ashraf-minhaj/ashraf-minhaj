@@ -1,3 +1,5 @@
+<a href="https://stackoverflow.com/users/17402986/ashraf-minhaj"><img src="https://stackoverflow.com/users/flair/17402986.png" width="208" height="58" alt="profile for ashraf minhaj at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for ashraf minhaj at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=“Knock,+knock.”;“Who’s+there?”;...+very+long+pause;"Python!")](https://git.io/typing-svg)
 
 ### 👨🏻‍💻 &nbsp;Oh you're here!
