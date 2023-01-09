@@ -9,4 +9,6 @@ Here you'll find some AWS realted projects written in terraform, some cool fun r
 [![](https://img.shields.io/github/followers/ashraf-minhaj?label=follow&style=social)](https://github.com/ashraf-minhaj)&nbsp; **me to keep a track of what I do.** 
 
 #### StackOverFlow Activity:
-[![user:17402986's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/17402986?theme=dark)](https://github.com/johannchopin/stackoverflow-readme-profile) [![user:17402986's ranking for amazon-web-services](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/amazon-web-services/17402986?theme=dark)](https://stackoverflow-readme-profile.vercel.app/tags-league/amazon-web-services/users/17402986) 
+[![user:17402986's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/17402986?theme=dark)](https://stackoverflow.com/users/17402986/ashraf-minhaj) 
+<!-- [![user:17402986's ranking for amazon-web-services](https://stackoverflow-readme-profile.johannchopin.fr/tags-league-ranking/amazon-web-services/17402986?theme=dark)](https://stackoverflow-readme-profile.vercel.app/tags-league/amazon-web-services/users/17402986) 
+ -->
