@@ -5,6 +5,7 @@ What to say... well... AWS is my Crush, Python is my love, making DIY gadgets an
 
 Here you'll find some AWS realted projects written in terraform, some cool fun robots which I thought would be serious, more significantly, here's Ashraf Minhaj!
 
+Read my blogs [dev.to/ashraf-minhaj](https://dev.to/ashraf-minhaj/) to learn about AWS, IAC, CICD etc. 
 [![](https://img.shields.io/github/followers/ashraf-minhaj?label=follow&style=social)](https://github.com/ashraf-minhaj)&nbsp; **me to keep a track of what I do.** 
 
 #### StackOverFlow Activity:
