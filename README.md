@@ -12,7 +12,7 @@ Hi there! 👋
 ![raspverrypi](https://img.shields.io/badge/Raspberrypi-6CC04A?style=flat-square&logo=raspberrypi&logoColor=C51A4A)
 ![aws](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon&logoColor=orange)
 
-I am a CloudOps Engineer with a deep Crush on DevOps. Currently Deploying [Programming-Hero](https://www.programming-hero.com/)'s web applications by writing infrastructures, building CICD pipelines etc. Python is my love, making DIY gadgets and robots are my hobby, love to have tech talk & share knowledge. I usually talk in two programming languages, but understand many more.
+A full time DevOps Engineer and Automation lover. Python is my love, making DIY gadgets and robots are my hobby, love to have tech talk & share knowledge. I usually talk in two programming languages, but understand many more.
 I occasionally write blogs at [dev.to/ashraf-minhaj](https://dev.to/ashraf-minhaj/) about DevOps, AWS, IAC, CICD etc. 
 
 Feeling the urge to give back from where I learnt a lot, I contribute actively to the StackOverflow community too -
